@@ -32,14 +32,14 @@ a {
 .section__padding{
     padding: 4rem 6rem;
 }
-*/
 
-/* .section__margin{
+
+.section__margin{
     margin: 4rem 6rem;
-} */
+}
 
 
-/* .scale-up-center {
+ .scale-up-center {
 	-webkit-animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
 	        animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
 }
@@ -63,7 +63,7 @@ a {
       -webkit-transform: scale(1);
               transform: scale(1);
     }
-  } */
+  }  */
 
   /* for big screen */
   @media screen and (max-width: 700px) {
