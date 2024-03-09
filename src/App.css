@@ -28,7 +28,7 @@ a {
     -webkit-text-fill-color: transparent;
 }
 
-/* 
+
 .section__padding{
     padding: 4rem 6rem;
 }
@@ -63,7 +63,7 @@ a {
       -webkit-transform: scale(1);
               transform: scale(1);
     }
-  }  */
+  }  
 
   /* for big screen */
   @media screen and (max-width: 700px) {
